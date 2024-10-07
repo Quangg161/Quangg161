@@ -25,11 +25,11 @@
 </tr></table>
 
 ## Contact with me:
-<div align="center">
+<div align="center" >
 <a target="_blank" href="mailto:nhatquang2k3@gmail.com" >
-    <img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
+    <img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail" width="100" height="25"></a>
 <a  target="_blank" href="https://www.facebook.com/n.quang161/">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook" width="100" height="25"></a>
 </div>
 
 ## GitHub Stats
