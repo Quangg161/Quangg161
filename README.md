@@ -18,7 +18,7 @@
 ### Developer Tools
 <a href="[https://github.com/Quangg161]">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=github,vscode,postman,azure,mongodb" /> 
+       <img src="https://skillicons.dev/icons?i=vscode,postman,figma,mongodb,bootstrap" /> 
 </div>
 </a>
 </td>
