@@ -1,7 +1,7 @@
 # About Me:
 -  Hi, I’m Nguyen Nhat Quang
 -  I’m living in Ho Chi Minh city
--  I’m studying at Van Lang University (software engineering)
+-  I’m studying at Van Lang University
 -  nhatquang2k3@gmail.com
  
 ## Tech stack:
